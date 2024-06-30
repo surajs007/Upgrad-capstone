@@ -34,5 +34,4 @@ Evaluate the model's performance on the test set to estimate its ability to gene
 Identify and address any issues with the model, such as overfitting.
 10. Hyperparameter Tuning/Model Improvement
 Implement hyperparameter tuning methods to enhance the model's performance.
-11. Model Deployment Plan
-Develop a plan for deploying the trained machine learning model in a production environment.
+
